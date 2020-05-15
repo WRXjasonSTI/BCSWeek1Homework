@@ -1,3 +1,12 @@
+Horiseon 
+
+    The following submission is an HTML-formatted and updated webpage re-formatted with Search Engine Optimization in mind. The changes were made based on w3.org Accessibility Standards
+Overview and HTML5 Semantics articles from the book "HTML & CSS - Design and Build Websites" by Jon Duckett. 
+
+    Majority of the work was updating DIV tags to HTML Equivalents based on the context of the website.
+
+
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
