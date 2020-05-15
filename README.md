@@ -3,7 +3,7 @@ Horiseon
     The following submission is an HTML-formatted and updated webpage re-formatted with Search Engine Optimization in mind. The changes were made based on w3.org Accessibility Standards
 Overview and HTML5 Semantics articles from the book "HTML & CSS - Design and Build Websites" by Jon Duckett. 
 
-    Majority of the work was updating DIV tags to HTML Equivalents based on the context of the website.
+    Majority of the work was updating DIV tags to HTML Equivalents based on the context of the website and adding Alt tags to images. Indentations were also added to increase readability.
 
 
 
