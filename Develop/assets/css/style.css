@@ -20,7 +20,7 @@ right: 5px
 }
 
 /* added positioning to keep links in header when user zooms in or out */
-.header {
+.top-of-page {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -28,16 +28,16 @@ right: 5px
     /* position: fixed; */
 }
 
-.header h1 {
+.top-of-page h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.top-of-page h1 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+.top-of-page div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -45,11 +45,11 @@ right: 5px
     font-size: 20px;
 }
 
-.header div ul {
+.top-of-page div ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.top-of-page div ul li {
     display: inline-block;
     margin-left: 25px;
 }
